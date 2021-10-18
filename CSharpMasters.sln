@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMasters", "CSharpMasters\CSharpMasters.csproj", "{F951252C-3511-4408-A7DE-54EB26EF3440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpMasters", "CSharpMasters\CSharpMasters.csproj", "{F951252C-3511-4408-A7DE-54EB26EF3440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{9D7AE1BD-5285-416D-BE7C-CDBF05EEAAEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F951252C-3511-4408-A7DE-54EB26EF3440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F951252C-3511-4408-A7DE-54EB26EF3440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F951252C-3511-4408-A7DE-54EB26EF3440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7AE1BD-5285-416D-BE7C-CDBF05EEAAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7AE1BD-5285-416D-BE7C-CDBF05EEAAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7AE1BD-5285-416D-BE7C-CDBF05EEAAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7AE1BD-5285-416D-BE7C-CDBF05EEAAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
