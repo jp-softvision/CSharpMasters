@@ -1,0 +1,14 @@
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.exe
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.deps.json
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.runtimeconfig.json
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.runtimeconfig.dev.json
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.dll
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\bin\Debug\netcoreapp3.1\CSharpMasters.pdb
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.csproj.AssemblyReference.cache
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.AssemblyInfoInputs.cache
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.AssemblyInfo.cs
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.csproj.CoreCompileInputs.cache
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.dll
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.pdb
+C:\Users\johnpaull\source\repos\CSharpMasters\CSharpMaster\CSharpMasters\obj\Debug\netcoreapp3.1\CSharpMasters.genruntimeconfig.cache
