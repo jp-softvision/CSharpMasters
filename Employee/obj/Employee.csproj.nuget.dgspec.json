@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Palindrome\\Palindrome.csproj": {}
+    "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Palindrome\\Palindrome.csproj": {
+    "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Palindrome\\Palindrome.csproj",
-        "projectName": "Palindrome",
-        "projectPath": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Employee\\Employee.csproj",
+        "projectName": "Employee",
+        "projectPath": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\johnpaull\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\johnpaull\\source\\repos\\CSharpMasters\\CSharpMaster\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
